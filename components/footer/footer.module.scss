@@ -1,0 +1,18 @@
+.footer {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 30px;
+  background-color: #000;
+  color: #fff;
+}
+
+.info {
+  text-align: end;
+  padding: 20px;
+}
+
+.date {
+  margin-top: 6px;
+}
